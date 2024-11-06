@@ -18,6 +18,12 @@ body: {domain: 'domain.com'}
 
 ## HOW TO INSTALL
 
-use node.js 20+
+use node.js 20+、 mongodb （port:27017）
 
 cmd: npm install
+
+## HOW TO CONFIG MONGODB
+
+./extends/logsInsert.js
+
+is mongodb obj
